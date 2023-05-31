@@ -1,0 +1,16 @@
+2023-02-24 08:14:40,549-INFO : [epoch 2] train_loss: 0.116 val_loss: 0.014 val_accurate_1: 1.000 val_accurate_2: 0.989 lr: 0.000100
+2023-02-24 08:14:56,964-INFO : [epoch 3] train_loss: 0.045 val_loss: 0.013 val_accurate_1: 1.000 val_accurate_2: 0.992 lr: 0.000100
+2023-02-24 08:15:12,450-INFO : [epoch 4] train_loss: 0.172 val_loss: 0.012 val_accurate_1: 1.000 val_accurate_2: 0.995 lr: 0.000100
+2023-02-24 08:15:28,211-INFO : [epoch 5] train_loss: 0.031 val_loss: 0.009 val_accurate_1: 1.000 val_accurate_2: 0.995 lr: 0.000100
+2023-02-24 08:15:43,817-INFO : [epoch 6] train_loss: 0.034 val_loss: 0.009 val_accurate_1: 1.000 val_accurate_2: 0.995 lr: 0.000100
+2023-02-24 08:16:00,119-INFO : [epoch 7] train_loss: 0.025 val_loss: 0.009 val_accurate_1: 1.000 val_accurate_2: 1.000 lr: 0.000100
+2023-02-24 08:16:15,717-INFO : [epoch 8] train_loss: 0.024 val_loss: 0.009 val_accurate_1: 1.000 val_accurate_2: 0.997 lr: 0.000100
+2023-02-24 08:16:30,945-INFO : [epoch 9] train_loss: 0.022 val_loss: 0.012 val_accurate_1: 1.000 val_accurate_2: 0.995 lr: 0.000100
+2023-02-24 08:16:45,933-INFO : [epoch 10] train_loss: 0.020 val_loss: 0.011 val_accurate_1: 1.000 val_accurate_2: 0.995 lr: 0.000100
+2023-02-24 08:17:01,567-INFO : [epoch 11] train_loss: 0.021 val_loss: 0.011 val_accurate_1: 1.000 val_accurate_2: 0.997 lr: 0.000100
+2023-02-24 08:17:16,163-INFO : [epoch 12] train_loss: 0.098 val_loss: 0.012 val_accurate_1: 1.000 val_accurate_2: 0.997 lr: 0.000100
+2023-02-24 08:17:31,991-INFO : [epoch 13] train_loss: 0.042 val_loss: 0.013 val_accurate_1: 1.000 val_accurate_2: 0.992 lr: 0.000100
+2023-02-24 08:17:46,773-INFO : [epoch 14] train_loss: 0.113 val_loss: 0.013 val_accurate_1: 1.000 val_accurate_2: 0.989 lr: 0.000100
+2023-02-24 08:18:01,283-INFO : [epoch 15] train_loss: 0.023 val_loss: 0.019 val_accurate_1: 1.000 val_accurate_2: 0.989 lr: 0.000100
+2023-02-24 08:18:15,631-INFO : [epoch 16] train_loss: 0.019 val_loss: 0.015 val_accurate_1: 1.000 val_accurate_2: 0.989 lr: 0.000100
+2023-02-24 08:18:30,263-INFO : [epoch 17] train_loss: 0.017 val_loss: 0.009 val_accurate_1: 1.000 val_accurate_2: 0.995 lr: 0.000100
